@@ -31,18 +31,25 @@ img {
 
 .activity-pics {
     display: flex;
+    height: 30px;
     justify-content: space-around;
     border-radius: 20px;
 }
 
 .act-pic {
     border-radius: 50px;
+    height: 100px;
 }
 
 .activities {
     background-color: #F1FAEE;
     padding: 20px;
+    height: 325px;
  
+}
+
+.activity {
+    width: 210px;
 }
 
 .hero {
